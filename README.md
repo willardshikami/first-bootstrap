@@ -1,2 +1,3 @@
 # first-bootstrap
-My first Bootstrap Project
+My first Twitter Bootstrap Project.
+It includes different Bootstrap features and components.
